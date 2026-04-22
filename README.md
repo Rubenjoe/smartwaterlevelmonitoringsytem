@@ -66,7 +66,7 @@ A detailed project report (PDF) is available in `documentation/project_report.pd
 ---
 
 ### 🎉 Developer  
-**Name:** Jerome Punnoose  
+**Name:** Ruben Joemon  
 **Platform:** Arduino IDE + NodeMCU + Blynk  
 **Year:** 2025
 
